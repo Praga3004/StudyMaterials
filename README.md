@@ -24,6 +24,17 @@ This repository contains:
 - Data loading with `DataLoader` and `Dataset`
 - Advanced models and techniques (transfer learning, custom loss functions)
 
+## PyTorch Library 
+ - Base Class
+ - Layer Types
+ - Loss Function
+ - Activation Function
+ - Containers
+ - Dropouts And Regularization
+ - Distance And Similarity Function
+ - Enbeddings And Space Layers
+ - Utilities
+
 ## License
 MIT License
 
